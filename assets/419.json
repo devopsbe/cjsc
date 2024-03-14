@@ -1,0 +1,42 @@
+{
+  "name": "CRYPTO JUNKIE SOCIAL CLUB #419",
+  "description": "A horde of 999 Crypto Junkies hitting the Sei Block in search of a new high.",
+  "image": "419.png",
+  "edition": 419,
+  "date": 1710279787144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glowed"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "El Fuego"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Wishing Tee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Neon Azure K Bop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Purp Viking"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sober Gloom"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Robo Rollup"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

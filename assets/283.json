@@ -1,0 +1,42 @@
+{
+  "name": "CRYPTO JUNKIE SOCIAL CLUB #283",
+  "description": "A horde of 999 Crypto Junkies hitting the Sei Block in search of a new high.",
+  "image": "283.png",
+  "edition": 283,
+  "date": 1710279112845,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bluski"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Original Man"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Kinda Sprayed"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Open Pineal Brain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Viking"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zooted Eyes"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Infite Finger"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

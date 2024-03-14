@@ -1,0 +1,42 @@
+{
+  "name": "CRYPTO JUNKIE SOCIAL CLUB #885",
+  "description": "A horde of 999 Crypto Junkies hitting the Sei Block in search of a new high.",
+  "image": "885.png",
+  "edition": 885,
+  "date": 1710282140638,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Azure"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bionic"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Sei Junkie Tatt"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Blk Tank Top"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Broken Brain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snaggle Toothed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High Cry Eyes"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Sei Sword"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

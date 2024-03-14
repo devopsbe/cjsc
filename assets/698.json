@@ -1,0 +1,42 @@
+{
+  "name": "CRYPTO JUNKIE SOCIAL CLUB #698",
+  "description": "A horde of 999 Crypto Junkies hitting the Sei Block in search of a new high.",
+  "image": "698.png",
+  "edition": 698,
+  "date": 1710281177572,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "San Tan"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cockazoid"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "FUPM"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Bullet Proof"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Big Brain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sickles"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Invader Eyes"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Robo Hand"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

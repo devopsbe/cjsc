@@ -1,0 +1,42 @@
+{
+  "name": "CRYPTO JUNKIE SOCIAL CLUB #442",
+  "description": "A horde of 999 Crypto Junkies hitting the Sei Block in search of a new high.",
+  "image": "442.png",
+  "edition": 442,
+  "date": 1710279903308,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lemon Lime"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mello Yellow"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Forehead"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Wishing Tee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Broken Brain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Viking"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High Cry Eyes"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Robo Rollup"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

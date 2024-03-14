@@ -1,0 +1,64 @@
+{
+    "mnemonic": "dial rude good swear assist vast lion grab atom beach affair arrest", 
+    "rpc": "https://sei-rpc.brocha.in",
+    "network": "pacific-1",
+    "name": "CRYPTO JUNKIE SOCIAL CLUB",
+    "symbol": "CJSC",
+    "description": "A horde of 999 Crypto Junkies hitting the Sei Block in search of a new high.",
+    "supply": 999,
+    "token_uri": "https://arweave.net/zzspd3Cz2ltFnEn-9Pi0EAv9Ls216zl6bkZs-S9JmkI",
+    "royalty_percent": 7,
+    "royalty_wallet": "sei1eeh943klw5kfecu665lu78g3drtfu9a8hey6pm",
+    "iterated_uri": false,
+    "start_order": 1,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": null,
+    "groups": [
+
+                {
+            "name": "whitelist",
+            "merkle_root": "c308dca3de590b543543c6d616389deeddc815e7dd4fbf099e59c6495babf858",
+            "max_tokens": 2,
+            "unit_price": 0,
+            "creators": [
+                {
+                    "address": "sei1nha58vglvfwwz37eu22nazmnmw4td45tqx3mua",
+                    "share": 25
+                }, 
+                {
+                    "address": "sei1eeh943klw5kfecu665lu78g3drtfu9a8hey6pm",
+                    "share": 40
+                }, 
+                {
+                    "address": "sei123dxa65eqmgjcqzefd9h5a0hunvdqrkfc2d4j5",
+                    "share": 35
+                }
+            ],
+            "start_time": "2024-03-15T05:00:44Z",
+            "end_time": null
+        } ,
+        {
+            "name": "public",
+            "merkle_root": null,
+            "max_tokens": 3,
+            "unit_price": 10,
+            "creators": [
+                {
+                    "address": "sei1nha58vglvfwwz37eu22nazmnmw4td45tqx3mua",
+                    "share": 25
+                }, 
+                {
+                    "address": "sei1eeh943klw5kfecu665lu78g3drtfu9a8hey6pm",
+                    "share": 40
+                }, 
+                {
+                    "address": "sei123dxa65eqmgjcqzefd9h5a0hunvdqrkfc2d4j5",
+                    "share": 35
+                }
+            ],
+            "start_time": "2024-03-15T05:30:44Z",
+            "end_time": null
+        }
+    ]
+}
